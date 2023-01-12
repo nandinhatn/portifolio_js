@@ -9,43 +9,43 @@
       "hardSkills": [   
         {
           "name": "JAVASCRIPT",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/JavaScript.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/JavaScript.svg"
         },      
         
         {
           "name": "PHP",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/PHP-Dark.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/PHP-Dark.svg"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/CSS.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/CSS.svg"
         },
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/HTML.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/HTML.svg"
         },
        
        
         {
           "name": "LUA",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Lua-Light.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/Lua-Light.svg"
         },
         {
           "name": "MYSQL",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/MySQL-Light.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/MySQL-Light.svg"
         },
        
         {
           "name": "PHYTON",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Python-Light.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/Python-Light.svg"
         },
         {
           "name": "PHOTOSHOP",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Photoshop.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/Photoshop.svg"
         },
         {
           "name": "ILLUSTRATOR",
-          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Illustrator.svg"
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876assets/img/icons/tools/Illustrator.svg"
         }
         
 

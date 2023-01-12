@@ -22,14 +22,14 @@
 <body>
     <main class="main">
     <header class="header">
-        <img src="/assets/img/IMG_4158.JPG" alt="Foto de Fernanda Nogueira" class="photo">
-        <h1 class="title">Olá, <br>eu sou Fernanda Nogueira</h1>
+        <img src="/assets/img/No-Image.png" alt="Foto de Fernanda Nogueira" id="photo" class="photo">
+        <h1 class="title">Olá, <br>eu sou <span id='name'>Carregando ...</span></h1>
       <div class="informations">
-        <p class="job">Developer/ Prof Byjus Learning</p>
-        <p class="location">Peruíbe- SP</p>
-        <p class="phone"><a href="tel:(11)969748216">(11) 96974-8216</a></p>
-        <p class="email">
-            <a href="mailto:fernanda@poppymidia.com.br">Meu email</a></p>
+        <p class="job" id="job">carregando...</p>
+        <p class="location" id="location">carregando...</p>
+        <p class="phone" ><a  id="phone" href="carregando">carregando...</a></p>
+        <p class="email" >
+            <a id="email" href="mailto:email">carregando</a></p>
     </div>
 </header>
 
@@ -39,11 +39,8 @@
        
      <h2> Idiomas</h2>  </button>
     <div class="content">
- <ul class="languages">
-     <li>Português</li>
-     <li>Inglês</li>
-     <li>Espanhol</li>
-     <li>Italiano</li>
+ <ul class="languages" id="languages">
+   
  </ul>
 
  </div>
@@ -55,18 +52,8 @@
        
         <h2>Portfólio</h2></button>
     <div class="content">
- <ul class="portfolio">
-     <li>
-       <h3 class="title github"> Projeto 1</h3>
-    <a href="https://www.google.com" target="_blank">www.google.com</a></li>
-
-    <li>
-        <h3 class="title"> Projeto 2</h3>
-     <a href="https://www.google.com" target="_blank">www.google.com</a></li>
-
-     <li>
-        <h3 class="title github"> Projeto 3</h3>
-     <a href="https://www.google.com" target="_blank">www.google.com</a></li>
+ <ul class="portfolio" id="portfolio">
+   
     
  </ul>
 </section>
@@ -76,19 +63,8 @@
        
        <h2> Experiência Profissional</h2></button>
     <div class="content">
- <ul class="experience">
-     <li>
-       <h3 class="title"> Professora Byjus Future School</h3>
-       <p class ="period"> Dez/2021 - Current</p>
-       <p class="text_experience"> Professora de Programação para crianças de 08 a 11 anos. Aulas de Lógica e Programação , 
-        HTML ,CSS , JS usando VS Code. </p>
-    </li>
-
-    <li>
-        <h3 class="title"> Web Developer Freelancer</h3>
-        <p class ="period"> Jan/2003 - Current</p>
-        <p class="text_experience"> Desenvolvimento de sites em HTML, CSS, JS e PHP para pequenas empresas </p>
-     </li>
+ <ul class="experience" id="experience">
+   
  
     
  </ul>
@@ -102,38 +78,15 @@
         <div class="skills">
             <section class="tools">
                 <h3>Ferramentas</h3>
-                <ul>
-                    <li>
-                        <img src="/assets/img/icons/tools/JavaScript.svg" alt="js" title="java-script">
-                    </li>
-                    <li>
-                        <img src="/assets/img/icons/tools/HTML.svg" alt="html" title="html">
-                    </li>
-                    <li>
-                        <img src="/assets/img/icons/tools/CSS.svg" alt="css" title="css">
-                    </li>
-                    <li>
-                        <img src="/assets/img/icons/tools/Lua-Light.svg" alt="js" title="lua">
-                    </li>
-                    <li>
-                        <img src="/assets/img/icons/tools/PHP-Dark.svg
-                        " alt="js" title="java-script">
-                    </li>
-                    <li>
-                        <img src="/assets/img/icons/tools/Photoshop.svg" alt="js" title="photoshop">
-                    </li>
-                    <li>
-                        <img src="/assets/img/icons/tools/Python-Light.svg" alt="js" title="java-script">
-                    </li>
+                <ul id="hardskills">
+                   
+                  
                 </ul>
             </section>
             <section class="personal">
                 <h3>Pessoal</h3>
-                <ul>
-                   <li>Liderança</li>
-                   <li>Facilidade de Comunicação</li>
-                   <li>Organização</li>
-                   <li>Flexibilidade</li>
+                <ul id="soft-skill">
+                  
                 </ul>
             </section>
             
@@ -149,4 +102,6 @@
   
 </body>
 <script src="/assets/js/acordeon.js"></script>
+<script src="/assets/js/api.js"></script>
+<script src="/assets/js/main.js"></script>
 </html>

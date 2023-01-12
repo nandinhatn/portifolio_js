@@ -1,0 +1,103 @@
+{
+    "name": "Fernanda T N Lisboa",
+    "photo": "https://avatars.githubusercontent.com/u/50202312?v=4",
+    "job": "Teacher Byjus - Web Developer Freela",
+    "location": "Peruibe - SP",
+    "phone": "(11)96974-8216",
+    "email": "fernanda@poppymidia.com.br",
+    "skills": {
+      "hardSkills": [   
+        {
+          "name": "JAVASCRIPT",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/JavaScript.svg"
+        },      
+        
+        {
+          "name": "PHP",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/PHP-Dark.svg"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/CSS.svg"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/HTML.svg"
+        },
+       
+       
+        {
+          "name": "LUA",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Lua-Light.svg"
+        },
+        {
+          "name": "MYSQL",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/MySQL-Light.svg"
+        },
+       
+        {
+          "name": "PHYTON",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Python-Light.svg"
+        },
+        {
+          "name": "PHOTOSHOP",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Photoshop.svg"
+        },
+        {
+          "name": "ILLUSTRATOR",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/Illustrator.svg"
+        }
+        
+
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Espanhol (Iniciante)",
+      "Italiano (Intermediário)"
+    ],
+    "portfolio": [
+     
+      {
+        "name": "API Pokemon",
+        "url": "https://github.com/nandinhatn/js_pokedex",
+        "github": true
+      },
+      {
+        "name": "Wordpress Site - Site de Psicologia",
+        "url": "https://psicologiamooca.com.br/",
+        "github": false
+      },
+      {
+        "name": "Wordpress Site - Site Imobiliária",
+        "url": "https://weconsultoria.com/",
+        "github": false
+      },
+      {
+        "name": "Agenda Django",
+        "url": "https://github.com/nandinhatn/agenda",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Teacher Byjus Future School",
+        "period": "2021 - até o momento",
+        "description": "Professora de Programação para crianças e adolescentes . Ensino de Lógica de Programação na Plataforma Code Org, MIT , Minecraft Education Edition e VS Code."
+      },
+      {
+        "name": "Web Developer Freela",
+        "period": "2004 até o momento",
+        "description": "Desenvolvimento de websites para pequenas empresas."
+      }
+    
+    ]
+  }

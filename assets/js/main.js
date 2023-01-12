@@ -6,6 +6,7 @@
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateExperience(profileData)
+    updadeEducation(profileData)
   
    
 })
@@ -51,8 +52,7 @@ function updateLanguages(profileData){
 }
 function updatePortfolio(profileData){
     const portfolioUl= document.getElementById('portfolio')
-    console.log(profileData)
-    console.log(profileData.portfolio)
+   
     profileData.portfolio.map((portfolio)=> portfolioUl.innerHTML+=` <li>
     <h3 class="title ${portfolio.github? "github": ""}"> ${portfolio.name} </h3>
  <a href="${portfolio.url}" target="_blank">${portfolio.url}</a></li>`)
@@ -66,4 +66,16 @@ function updateExperience(profileData){
     <p class="text_experience"> ${experience.description} </p>
  </li>`})
 
+}
+function updadeEducation(profileData){
+    const education_dioUl= document.getElementById('education_dio')
+    const education_generalUl=document.getElementById('education_general')
+    console.log(profileData)
+    profileData.education.map((education)=>{
+        if (education.dio){
+            education_dioUl.innerHTML+=`<li> <img src=${education.img}></li>`
+        }else{
+            education_generalUl.innerHTML+=`<li><h3>${education.name}<h3><p class="period">${education.data}</p></li>`
+        }
+    })
 }

@@ -99,5 +99,32 @@
         "description": "Desenvolvimento de websites para pequenas empresas."
       }
     
+    ],
+    "education":[
+      {
+        "name": "Formação JavaScript Developer ",
+        "img": "https://hermes.digitalinnovation.one/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png",
+        "dio": true,
+        "data": "2023"
+      },
+      {
+        "name": "Formação Python Developer ",
+        "img": "https://hermes.digitalinnovation.one/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png",
+        "dio": true,
+        "data": "2022"
+      },   
+ 
+      {
+        "name": "Anhanguera - Engenharia de Software",
+        "img": "",
+        "dio": false,
+        "data": "São Paulo -2021"
+      },
+      {
+        "name": "Coursera - Google Certification - UX Design",
+        "img": "https://hermes.digitalinnovation.one/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png",
+        "dio": false,
+        "data": "São Paulo -2023"
+      }
     ]
   }

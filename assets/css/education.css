@@ -5,7 +5,7 @@
 .education .dio ul{
     list-style: none;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     
 }

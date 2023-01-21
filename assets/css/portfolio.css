@@ -23,6 +23,9 @@
     margin: 0;
     
 }
+.portifolio li a{
+    word-wrap: break-word;
+}
 
 .portfolio li .title.github::before{
     content: '';

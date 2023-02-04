@@ -71,6 +71,11 @@
         "url": "https://github.com/nandinhatn/js_pokedex",
         "github": true
       },
+         {
+        "name": "Replicando responsivamente site Discord",
+        "url": "https://nandinhatn.github.io/desafio-discord-template/",
+        "github": true
+      },
           {
         "name": "Landing Page Trilha CSS",
         "url": "https://nandinhatn.github.io/trilha-css-desafio1/",
@@ -87,8 +92,8 @@
         "github": false
       },
       {
-        "name": "Agenda Django",
-        "url": "https://github.com/nandinhatn/agenda",
+        "name": "HBO MAX Replicada Responsiva e Animada em CSS",
+        "url": "https://nandinhatn.github.io/hbo-max-desafio/",
         "github": true
       }
     ],

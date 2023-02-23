@@ -10,7 +10,11 @@
         {
           "name": "JAVASCRIPT",
           "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/4ccc40386e53803cd1b080b6f044d6a8555d7876/assets/img/icons/tools/JavaScript.svg"
-        },      
+        },   
+           {
+          "name": "REACT",
+          "logo": "https://raw.githubusercontent.com/nandinhatn/portifolio_js/259d8918f890d81916934659b133aca64d16728c/assets/img/icons/tools/React-Light.svg"
+        },    
         
         {
           "name": "PHP",

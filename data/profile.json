@@ -72,8 +72,28 @@
     "portfolio": [
 
          {
-        "name": "Conversor de Imagens utilizando Inteligência Artificial",
-        "url": "https://https://convertimageio.tech/",
+        "name": "Conversor de Imagens utilizando Inteligência Artificial - Machine Learning",
+        "url": "https://convertimageio.tech/",
+        "github": false
+      },
+          {
+        "name": "Site Poppy Midia - Angular",
+        "url": "https://poppymidia.com",
+        "github": false
+      },
+          {
+        "name": "Site Poppy Midia - React",
+        "url": "https://poppymidia.com.br/",
+        "github": false
+      },
+         {
+        "name": "Site Pequena Empresa Bolando Arte",
+        "url": "https://www.bolandoarte.com.br",
+        "github": false
+      },
+         {
+        "name": "Site Médico Ortopoedista",
+        "url": "https://www.drjoaopolydoro.com.br/",
         "github": false
       },
       {

@@ -1,7 +1,7 @@
 {
     "name": "Fernanda T N Lisboa",
     "photo": "https://avatars.githubusercontent.com/u/50202312?v=4",
-    "job": "Teacher Byjus - Web Developer Freela",
+    "job": "Full Stack Developer - Freela",
     "location": "Peruibe - SP",
     "phone": "(11)96974-8216",
     "email": "fernanda@poppymidia.com.br",
@@ -56,8 +56,9 @@
       ],
       "softSkills": [
         "Criatividade",
-        "Atitude",
+        "Pró Atividade",
         "Disciplina",
+          "Fácil Aprendizado",
         "Protagonismo",
         "Colaboração",
         "Curiosidade"
@@ -130,13 +131,13 @@
     "professionalExperience": [
       {
         "name": "Teacher Byjus Future School",
-        "period": "2021 - até o momento",
+        "period": "2021 - 2023",
         "description": "Professora de Programação para crianças e adolescentes . Ensino de Lógica de Programação na Plataforma Code Org, MIT , Minecraft Education Edition e VS Code."
       },
       {
-        "name": "Web Developer Freela",
+        "name": "Full Stack Developer - Freela - Autônomo",
         "period": "2004 até o momento",
-        "description": "Desenvolvimento de websites para pequenas empresas."
+        "description": "Desenvolvimento de websites para pequenas empresas, incluindo wordpress, gerenciamento de conteúdo com php ou python, react e/ou angular.Criação de Api Rest Full com python ou nodejs. "
       }
     
     ],
